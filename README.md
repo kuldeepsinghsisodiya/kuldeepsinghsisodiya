@@ -5,8 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kuldeepsinghsisodiya">
+  <a href="https://github.com/kuldeepsinghsisodiya" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Kuldeep-black?style=for-the-badge&logo=github" alt="GitHub Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/kuldeepsinghsisodiya05/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Kuldeep%20Singh%20Sisodiya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </p>
 
