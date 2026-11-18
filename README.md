@@ -1,14 +1,14 @@
-# 🚀 Full Stack Developer — Kuldeep Singh Sisodiya
+<h1 align="center">🚀 Full Stack Developer — Kuldeep Singh Sisodiya</h1>
 
-\<p align="center">
-&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=MERN+Stack+Developer;AI+Application+Builder;Full+Stack+Developer;JavaScript+%7C+React.js+%7C+Node.js](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=38BDF8\&center=true\&vCenter=true\&width=550\&lines=MERN+Stack+Developer;AI+Application+Builder;Full+Stack+Developer;JavaScript+%7C+React.js+%7C+Node.js)" alt="Typing SVG" />
-\</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=MERN+Stack+Developer;AI+Application+Builder;Full+Stack+Developer;JavaScript+%7C+React.js+%7C+Node.js" alt="Typing SVG" />
+</p>
 
-\<p align="center">
-&#x20; \<a href="[https://github.com/kuldeepsinghsisodiya](https://github.com/kuldeepsinghsisodiya)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-Kuldeep-black?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Kuldeep-black?style=for-the-badge\&logo=github)" />
-&#x20; \</a>
-\</p>
+<p align="center">
+  <a href="https://github.com/kuldeepsinghsisodiya">
+    <img src="https://img.shields.io/badge/GitHub-Kuldeep-black?style=for-the-badge&logo=github" alt="GitHub Badge" />
+  </a>
+</p>
 
 ---
 
